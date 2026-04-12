@@ -18,5 +18,5 @@
   Лекция: [YouTube](https://www.youtube.com/live/RqM3G3STkGE?si=k7ugiPjZtiFiVzuu), [VK Video](https://vkvideo.ru/video-84793390_456240038?list=ln-h8sMoZ05rvUany06as);
   Семинар: [YouTube](https://www.youtube.com/live/VYEX17iibkQ?si=JUO4-zYBVS3FGqlD), [VK Video](https://vkvideo.ru/video-84793390_456240039?list=ln-C0ZIvShdj8WF6w0A9y)
 - `05_production_engineering_for_llm_agents` — production engineering для агентных систем: мониторинг, масштабирование и эксплуатация систем под реальной нагрузкой.
-  Лекция: [YouTube](), [VK Video]();
-  Семинар: [YouTube](), [VK Video]()
+  Лекция 5.1: [YouTube](https://www.youtube.com/live/sNemTIFlz08?si=Q2KdL2kYwg-ZpWHN), [VK Video](https://vkvideo.ru/video-84793390_456240040?list=ln-Tp7HdGUZFszu0lwh7F);
+  Лекция 5.2: [YouTube](https://www.youtube.com/live/UxgjgvI_wKY?si=HzQLhKnIS5PJ5bRf), [VK Video](https://vkvideo.ru/video-84793390_456240041?list=ln-v7UzBvkPgEvumWc03d)
