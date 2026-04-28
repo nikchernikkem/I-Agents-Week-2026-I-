@@ -20,3 +20,12 @@
 - `05_production_engineering_for_llm_agents` — production engineering для агентных систем: мониторинг, масштабирование и эксплуатация систем под реальной нагрузкой;<br>
   Лекция 5.1: [YouTube](https://www.youtube.com/live/sNemTIFlz08?si=Q2KdL2kYwg-ZpWHN), [VK Video](https://vkvideo.ru/video-84793390_456240040?list=ln-Tp7HdGUZFszu0lwh7F);
   Лекция 5.2: [YouTube](https://www.youtube.com/live/UxgjgvI_wKY?si=HzQLhKnIS5PJ5bRf), [VK Video](https://vkvideo.ru/video-84793390_456240041?list=ln-v7UzBvkPgEvumWc03d)
+- `Final_Task` — финальное задание на написание ReAct-агента с тулами, добавление в него памяти и реализации системы из четырёх агентов + оркестратор;<br>
+- `QA-Session` — итоговая сессия с ответами на различные вопросы; [Ссылка](https://disk.yandex.ru/d/qtQgTekJnBYTnQ/QA-session%20%E2%80%94%20Agents%20Week.mp4)
+
+## Полезные материалы
+
+- https://github.com/ultraworkers/claw-code
+- https://github.com/browser-use/browser-use
+- https://github.com/assafelovic/gpt-researcher
+- https://github.com/OpenHands/OpenHands
